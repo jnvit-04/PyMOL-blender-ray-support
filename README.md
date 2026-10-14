@@ -5,7 +5,7 @@ Blender Cycles using **NVIDIA OptiX**, **CUDA**, or CPU fallback.
 
 The plugin does not patch PyMOL and does not install CUDA/Python packages into
 PyMOL. PyMOL exports its visible scene to COLLADA, and Blender runs as an
-isolated background renderer.
+isolated background renderer. Technically your scene is adapted, but with care to keep some fidelity.
 
 ## Installation
 1. Install [Blender 4.2 or newer](https://www.blender.org/download/).
