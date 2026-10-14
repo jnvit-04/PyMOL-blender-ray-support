@@ -1,4 +1,4 @@
-# PyMOL GPU Ray 0.1.0
+# PyMOL GPU Ray 0.1.3
 
 A drop-in PyMOL plugin that renders the **currently visible PyMOL scene** with
 Blender Cycles using **NVIDIA OptiX**, **CUDA**, or CPU fallback.
@@ -42,7 +42,7 @@ No PyPI packages are required inside PyMOL.
 
 1. Install Blender if it is not already installed.
 2. In PyMOL open **Plugin → Plugin Manager → Install New Plugin**.
-3. Select `pymol-gpu-ray-0.1.0.zip`.
+3. Select `pymol-gpu-ray-0.1.3-public.zip`.
 4. Open **Plugin → GPU Ray Tracer**.
 5. Click **Diagnose** once. If Blender was not found automatically, select
    `blender.exe` (Windows) or the Blender executable manually.
