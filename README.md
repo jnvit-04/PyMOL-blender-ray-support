@@ -1,4 +1,4 @@
-# PyMOL GPU Ray 0.1.3
+# PyMOL GPU Ray 0.1.6
 
 A drop-in PyMOL plugin that renders the **currently visible PyMOL scene** with
 Blender Cycles using **NVIDIA OptiX**, **CUDA**, or CPU fallback.
